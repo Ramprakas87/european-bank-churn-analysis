@@ -7,6 +7,9 @@ http://localhost:8505/
 ## Resarch Paper Link
 https://zenodo.org/records/19565671
 
+# Dashboard Video Link
+https://drive.google.com/file/d/14FGdEARZsTNa4aG-4vTid6-Y230l0weJ/view?usp=drive_link
+
 ---
 
 # 🏦 ECB Customer Churn Analytics Dashboard
