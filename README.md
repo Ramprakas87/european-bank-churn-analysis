@@ -2,7 +2,7 @@
 Customer Churn Analysis Dashboard - ECB Commissioned Study
 
 ## Dashboard Link
-http://localhost:8505/
+https://european-bank-churn-analysis-4fvxw2rlsprpzj2lfoge3r.streamlit.app/
 
 ## Resarch Paper Link
 https://zenodo.org/records/19565671
